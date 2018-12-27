@@ -1,0 +1,17 @@
+{
+  "name": "mail-sender",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node mailer.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Zhumei Song",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^4.7.0"
+  }
+}
