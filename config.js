@@ -1,5 +1,5 @@
 module.exports = {
-  from: 'sender@server.com',
+  from: 'zhumei.song@monstar-lab.com',
   to: 'zhumei.song@monstar-lab-cn.com',
   cc: '',
   bcc: '',
